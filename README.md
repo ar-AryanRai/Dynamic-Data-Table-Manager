@@ -2,6 +2,8 @@
 
 A feature-rich, responsive **Data Table Manager** built with **React**, **Redux Toolkit**, and **Material UI**. This project simulates a real-world admin panel table with support for importing/exporting CSV data, managing columns dynamically, inline editing, row control, and theming.
 
+🔗 **Live Demo:** [Click here to visit the project](https://table-craft.netlify.app)
+
 ---
 
 ## 🚀 Features
